@@ -1,0 +1,14 @@
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.csproj.AssemblyReference.cache
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.AssemblyInfoInputs.cache
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.AssemblyInfo.cs
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.csproj.CoreCompileInputs.cache
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.exe
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.deps.json
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.runtimeconfig.json
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.runtimeconfig.dev.json
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.dll
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\bin\Debug\netcoreapp3.1\Proje2ToDo.pdb
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.dll
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.pdb
+C:\Users\csent\Desktop\c#\Proje2ToDo\Proje2ToDo\obj\Debug\netcoreapp3.1\Proje2ToDo.genruntimeconfig.cache

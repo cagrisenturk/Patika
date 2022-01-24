@@ -1,0 +1,14 @@
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.exe
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.deps.json
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.runtimeconfig.json
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.runtimeconfig.dev.json
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.dll
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\bin\Debug\netcoreapp3.1\Ornek1.pdb
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.csproj.AssemblyReference.cache
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.AssemblyInfoInputs.cache
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.AssemblyInfo.cs
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.dll
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.pdb
+C:\Users\csent\Documents\GitHub\Odev1\Ornek1\Ornek1\obj\Debug\netcoreapp3.1\Ornek1.genruntimeconfig.cache

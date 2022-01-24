@@ -1,0 +1,14 @@
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.exe
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.deps.json
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.runtimeconfig.dev.json
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.dll
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.pdb
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.dll
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.pdb
+C:\Users\csent\Documents\GitHub\Odev2\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-3.genruntimeconfig.cache

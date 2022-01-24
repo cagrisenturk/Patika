@@ -1,0 +1,14 @@
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.exe
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.deps.json
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.runtimeconfig.json
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.runtimeconfig.dev.json
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.dll
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\bin\Debug\netcoreapp3.1\PROJE-1.pdb
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.csproj.AssemblyReference.cache
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.AssemblyInfoInputs.cache
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.AssemblyInfo.cs
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.csproj.CoreCompileInputs.cache
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.dll
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.pdb
+C:\Users\csent\Documents\GitHub\PROJE-1\PROJE-1\obj\Debug\netcoreapp3.1\PROJE-1.genruntimeconfig.cache
